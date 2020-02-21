@@ -1,0 +1,40 @@
+.list {
+    margin-top: 70px;
+}
+
+.header {
+    font-size: 20px;
+}
+
+.form-makan {
+    margin-left: 100px;
+}
+.listmenu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.rows {
+    background-color: white;
+    margin-left: 10%;
+    display: inline-block;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 1%;
+    width: 270px;
+    height: 280px;
+    text-align: left;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(224, 222, 222);
+    border: 1px solid #cccccc;
+    border-color: brown;
+}
+
+/* .rows1 {
+    margin-top: -2%;
+    margin-left: 15%;
+    margin-right: 2%;
+    display: inline-block;
+} */

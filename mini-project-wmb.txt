@@ -1,0 +1,10 @@
+marine food stalls:
+
+This is an application to facilitate a job in a food stall, 
+especially for the cashier, this food stall provides a number of 30 separate dining tables 
+with the number of each table and several menus to be ordered, before going to the dining 
+table consumers must order food at the cashier more first, then it will be directed to choose 
+the available table with the amount of seat capacity, if the table chosen by the consumer is 
+available but the consumer capacity exceeds the seat capacity this cannot be done and this 
+will be confirmed by the cashier. The consumer will pay for the order after the customer completes his meal, 
+and the table is available again.
